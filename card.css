@@ -1,0 +1,40 @@
+.box{
+    margin:50px auto;
+    border:1px solid lightgray;
+    width:260px;
+    height:420px;
+    border-radius:15px;
+    font-size:15px;
+    font-family:sans-serif;
+}
+
+.box-2{
+    padding:10px 10px;
+}
+.colors{
+    width:100%;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+
+.lock{
+    width:25px;
+
+    border-radius:15px;
+    float:left;
+    margin-top:10px;
+    margin-right:5px;
+}
+
+.btn{
+    text-align:center;
+    color:blue;
+    padding:15px;
+    border-radius:5px;
+    border:1px solid lightgray;
+    background-color:white;
+    width:145px;
+    margin-top:10px;
+
+}
+
